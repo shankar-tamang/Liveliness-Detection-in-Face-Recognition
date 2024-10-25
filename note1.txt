@@ -1,0 +1,11 @@
+# The result are like such:
+
+1. The resnet is performing well for texture classification.
+2. A threshold of 0.45 seems optimal for now.
+3. Model has high confidence for spoof detection while it has very low in terms of live.
+
+
+
+
+
+
