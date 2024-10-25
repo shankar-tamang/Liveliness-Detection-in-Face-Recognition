@@ -13,7 +13,7 @@ This project focuses on detecting spoofing or liveness using image or video inpu
 │       ├── confi_model_test.py            # Script focusing on confidence scoring for live/spoof
 │       └── model_test.py                  # Deployment script for liveness detection
 .
-
+```
 
 ## Model Performance
 
